@@ -35,4 +35,8 @@ Essentially, the program starts at cell X: 0, Y: 0 and marks the cell as visited
 
 1. Generation of the maze
 
+![alt text](https://github.com/DawidCiechowski/Maze-Generator/blob/master/images/Annotation%202020-07-15%20143811.png)
+
 2. Finished maze
+
+![alt text](https://github.com/DawidCiechowski/Maze-Generator/blob/master/images/Annotation%202020-07-15%20143812.png)
